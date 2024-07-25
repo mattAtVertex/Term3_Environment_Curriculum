@@ -1,0 +1,32 @@
+# Capstone Lesson Plan #6
+
+<h3>Objective</h3>
+<p>In this milestone, your goal is to finish the lighting and rendering. Actually, you’ve probably been working on this for a while now. What we want to do this week is try to be strategic about our efforts and create something that we can feel comfortable ending with. In essence, this week is your final week to make changes that your mentor will review. This is, kind, your final week. Next week is really just parting words and last minute feedback.</p>
+<p>So, what do we need to focus on in this week to help us as much as possible? Of course, I have my thoughts and I will list them below for you. The primary thing I want to do with you this week is more mindset stuff. You already have so many tools at your disposal so much knowledge, and so much skill. However, mindset can still impact you and cost you weeks of time.</p>
+<h3>The illustrator mindset</h3>
+<p>The first mindset I want you to be thinking about is that you’re not actually an environment artist. You’re also an illustrator. When people look at your work they are not looking at it inside of unreal engine, for the most part. They are looking at it or artstation. They are looking at it next to concept art and illustrations.</p>
+<p>When they judge an environment they look at it from the perspective of… a picture. so, what are the triggers or the essential elements of an illustration that you need to keep in your mind.</p>
+<ul>
+<li>Value structure</li>
+<li>Color relationships</li>
+<li>Pictorial focus</li>
+</ul>
+<p><strong>Value structure</strong> is something that painters deal with. Illustrators deal with it. Concept artists live and breath it. Value structure just means that you have an acceptable range of values from black to white. What is acceptable will vary based on your theme. Take a look at <a class="inline_disabled" href="https://www.artstation.com/mandra" target="_blank">Alexander Mandradjiev</a>. He tends to be quite dark. He works within subtle shifts of chroma and value. On the other hand, works by <a class="inline_disabled" href="https://www.artstation.com/rutkowski" target="_blank">Greg Rutkowski</a> has more value range.</p>
+<p><strong>Color relationships </strong>is not something that you really focus on as a 3-D artist. However, it can make or break your scene. Remember, viewers first experience your image as an image. Then their training kicks in and they begin to evaluate it in terms of qualification for a job. Are your colors more like <a class="inline_disabled" href="https://thomaskinkade.com/" target="_blank">Thomas Kincaid</a>… more saturated and more separated? Take a look at the study by Greg Ripkowski <a class="inline_disabled" href="https://www.artstation.com/artwork/vJBqrO" target="_blank">here</a> notice the warm orange of the light that’s contrasted with the cool blues of the clouds. Then noticed the desaturated greenish sand that actually has dots of reddish brown in it. This interplay between warm and cool, oranges and blues, and even greens and browns is something you want to strive for in your 3-D work. Even if all you do is establish a warm light and cool shadows you will have instantly elevated the quality of your work… and it only takes a simple lighting set up.</p>
+<p><strong>Pictorial focus</strong> is the third element that is relatively easy to apply and often overlooked. What is the focus in your image. As 3D artist, you tend to think everything is a focus… Because you’ve been working on everything. However, your viewer wants to know where to look. They want to be told where to look. Then they want to be guided around your image. this is done to structuring your values so that areas of high contrast or areas of relative brightness serve as your focus.</p>
+<p>Color relationships are important here. If you go back to study 42 by Greg, it’s hard not to see the sun as a focus point. Try to squint your eyes as you look at the image. Is every area of it competing for attention or does one area become dominant within your limited field of you? Consider putting a vignette around the border to further heighten the focus. Either way, take a moment to see if you’re helping the viewer or just throwing them in a Las Vegas buffet to fend for themselves.</p>
+<h3>The cinematographer mindset</h3>
+<p>The other mindset that is important to use in your environment arts is that of the cinematographer. The cinematographer is also focused on similar things as an illustrator. Color relationships are important. Value structure is still paramount. However, a cinematographer adds different considerations to the equation. They focus on the focal length of the lens. They focus on the type of lens that’s used. They focus on the type of camera that’s used. Large format camera or anything other than just a standard DSLR.</p>
+<p>You’ll also find cinematographers focused on depth of field. Getting that slight blur of the background. Environment artists can often be hesitant to add depth of field because they want the viewer to see everything. However, as we saw above it is important to establish a pictorial focus… and a level of realism. There are great cinematography databases that you can find online. Some of them you have to pay for. However, doing a bit of googling here will go along way to helping you see how cinematographers have structured all those beautiful scenes that you’ve enjoyed as if you are going to the movies.</p>
+<h3>Summary</h3>
+<p>OK, in summary… This is really your last week to get something done before the final review next week. Don’t just think about this like an environment artist. Think like an illustrator and think like a cinematographer.</p>
+<p>&nbsp;</p>
+<h3>Lessons</h3>
+<p>There are no lessons... You know the drill.&nbsp; Get your idea sorted.&nbsp; Get your idea approved by mentor.</p>
+<p>&nbsp;</p>
+<p><a title="Using the Foliage Tool" href="https://vertexschool.instructure.com/courses/257/pages/using-the-foliage-tool" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/257/pages/using-the-foliage-tool" data-api-returntype="Page"></a></p>
+<h3><span>Assignment</span></h3>
+<ul>
+<li><a title="Assignment 11: Lighting &amp; Rendering" href="https://vertexschool.instructure.com/courses/266/assignments/2377" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/266/assignments/2377" data-api-returntype="Assignment">Assignment For Capstone #6</a></li>
+</ul>
+<p>&nbsp;</p>
